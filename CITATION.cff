@@ -3,7 +3,10 @@ message: "If you use this software in academic work, please cite the archived so
 title: "Neural Architecture Designer"
 type: software
 version: "1.0"
-date-released: 2026-08-27
+date-released: 2026-08-28
 authors:
-  - name: "Neural Architecture Designer contributors"
+  - family-names: "Azhdari"
+    given-names: "Mohammad"
+repository-code: "https://github.com/AzhdariMohammad/Neural-Architecture-Designer"
+url: "https://github.com/AzhdariMohammad/Neural-Architecture-Designer"
 license: MIT
