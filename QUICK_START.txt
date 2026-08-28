@@ -1,0 +1,19 @@
+Neural Architecture Designer v1.0 — Quick Start
+================================================
+
+WINDOWS
+1. Install Python 3.10 or newer.
+2. Download or clone the repository.
+3. Double-click RUN_APP.bat.
+4. On first launch, a local .venv is created and dependencies are installed.
+5. Choose a built-in architecture from the blue Samples selector.
+6. Edit the architecture.
+7. Use the fixed Export panel to create figures.
+
+BUILD A WINDOWS EXE
+Double-click BUILD_EXE.bat.
+NeuralArchitectureDesigner.exe is created directly in the project folder.
+
+PROJECT VS FIGURE
+- New Project / Open Project / Save Project / Save Project As manage editable projects.
+- Export Figure / Export All Formats create publication figures.
