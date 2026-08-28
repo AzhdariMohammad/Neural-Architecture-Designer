@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pyinstaller_build/
+build/
+dist/
+*.spec
+*.exe
+.DS_Store
+Thumbs.db
+NAD_All_Samples_*/
