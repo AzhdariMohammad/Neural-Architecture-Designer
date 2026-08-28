@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://azhdarimohammad.github.io/Neural-Architecture-Designer/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <image:image>
+      <image:loc>https://azhdarimohammad.github.io/Neural-Architecture-Designer/images/neural-network-architecture-diagram-examples.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://azhdarimohammad.github.io/Neural-Architecture-Designer/images/neural-network-visualization-path-highlighting-examples.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://azhdarimohammad.github.io/Neural-Architecture-Designer/images/neural-architecture-designer-software-interface.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
