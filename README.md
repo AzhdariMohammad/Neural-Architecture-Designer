@@ -2,7 +2,26 @@
 
 **Version 1.0**
 
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22135298.svg)](https://doi.org/10.5281/zenodo.22135298)
+[![Article DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22135398.svg)](https://doi.org/10.5281/zenodo.22135398)
+
 Neural Architecture Designer is a desktop application for creating editable, publication-ready neural-network architecture diagrams with Python, Tkinter, Matplotlib, and Pillow.
+
+## Gallery
+
+### Neural network architecture diagram examples
+
+![Publication-ready neural network architecture diagram examples](docs/images/neural-network-architecture-diagram-examples.svg)
+
+### Neural network visualization and path highlighting examples
+
+![Neural network visualization and path highlighting examples](docs/images/neural-network-visualization-path-highlighting-examples.svg)
+
+### Neural Architecture Designer interface
+
+![Neural Architecture Designer v1.0 software interface](docs/images/neural-architecture-designer-software-interface.svg)
+
+A search-oriented public gallery is included in [`docs/index.html`](docs/index.html), with descriptive image metadata and an image sitemap for web indexing.
 
 ## Features
 
@@ -74,7 +93,13 @@ Figure export is available separately in the Export panel.
 - Pillow 10+
 - Tkinter
 
-## Citation
+## Publication and citation
+
+**Scientific article:**  
+https://doi.org/10.5281/zenodo.22135398
+
+**Archived software release:**  
+https://doi.org/10.5281/zenodo.22135298
 
 For academic use, see `CITATION.cff`.
 
