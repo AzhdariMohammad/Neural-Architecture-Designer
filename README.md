@@ -11,15 +11,15 @@ Neural Architecture Designer is a desktop application for creating editable, pub
 
 ### Neural network architecture diagram examples
 
-![Publication-ready neural network architecture diagram examples](docs/images/neural-network-architecture-diagram-examples.svg)
+![Publication-ready neural network architecture diagram examples](docs/images/neural-network-architecture-diagram-examples.png)
 
 ### Neural network visualization and path highlighting examples
 
-![Neural network visualization and path highlighting examples](docs/images/neural-network-visualization-path-highlighting-examples.svg)
+![Neural network visualization and path highlighting examples](docs/images/neural-network-visualization-path-highlighting-examples.png)
 
 ### Neural Architecture Designer interface
 
-![Neural Architecture Designer v1.0 software interface](docs/images/neural-architecture-designer-software-interface.svg)
+![Neural Architecture Designer v1.0 software interface](docs/images/neural-architecture-designer-software-interface.png)
 
 A search-oriented public gallery is included in [`docs/index.html`](docs/index.html), with descriptive image metadata and an image sitemap for web indexing.
 
