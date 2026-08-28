@@ -101,7 +101,11 @@ https://doi.org/10.5281/zenodo.22135398
 **Archived software release:**  
 https://doi.org/10.5281/zenodo.22135298
 
-If you use Neural Architecture Designer in academic work, please cite the archived software release and/or the associated scientific article above. Machine-readable citation metadata is available in [`CITATION.cff`](CITATION.cff).
+If you use Neural Architecture Designer in academic work, please cite the software and/or the associated article as appropriate:
+
+**Software:** Azhdari, M. (2026). *Neural Architecture Designer, version 1.0*. Zenodo. https://doi.org/10.5281/zenodo.22135298
+
+**Article:** Azhdari, M. (2026). *Neural Architecture Designer: A Python Generator and Renderer for Publication-Ready Neural Network Architecture Diagrams*. Zenodo. https://doi.org/10.5281/zenodo.22135398
 
 ## License
 
